@@ -1,4 +1,3 @@
-// Ejercicio 551: Capturar datos del usuario usando la entrada estandar (teclado) usando Node.js.
 
 const readline = require("readline");
 
